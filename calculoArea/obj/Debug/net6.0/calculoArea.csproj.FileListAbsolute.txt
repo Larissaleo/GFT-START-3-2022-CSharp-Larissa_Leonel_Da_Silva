@@ -1,0 +1,15 @@
+C:\CSharp\TesteGFT\calculoArea\bin\Debug\net6.0\calculoArea.exe
+C:\CSharp\TesteGFT\calculoArea\bin\Debug\net6.0\calculoArea.deps.json
+C:\CSharp\TesteGFT\calculoArea\bin\Debug\net6.0\calculoArea.runtimeconfig.json
+C:\CSharp\TesteGFT\calculoArea\bin\Debug\net6.0\calculoArea.dll
+C:\CSharp\TesteGFT\calculoArea\bin\Debug\net6.0\ref\calculoArea.dll
+C:\CSharp\TesteGFT\calculoArea\bin\Debug\net6.0\calculoArea.pdb
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.csproj.AssemblyReference.cache
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.AssemblyInfoInputs.cache
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.AssemblyInfo.cs
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.csproj.CoreCompileInputs.cache
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.dll
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\ref\calculoArea.dll
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.pdb
+C:\CSharp\TesteGFT\calculoArea\obj\Debug\net6.0\calculoArea.genruntimeconfig.cache
