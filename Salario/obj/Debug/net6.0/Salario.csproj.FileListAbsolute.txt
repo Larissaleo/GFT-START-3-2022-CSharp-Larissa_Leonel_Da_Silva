@@ -1,0 +1,15 @@
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.csproj.AssemblyReference.cache
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.AssemblyInfoInputs.cache
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.AssemblyInfo.cs
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.csproj.CoreCompileInputs.cache
+C:\CSharp\TesteGFT\Salario\bin\Debug\net6.0\Salario.exe
+C:\CSharp\TesteGFT\Salario\bin\Debug\net6.0\Salario.deps.json
+C:\CSharp\TesteGFT\Salario\bin\Debug\net6.0\Salario.runtimeconfig.json
+C:\CSharp\TesteGFT\Salario\bin\Debug\net6.0\Salario.dll
+C:\CSharp\TesteGFT\Salario\bin\Debug\net6.0\ref\Salario.dll
+C:\CSharp\TesteGFT\Salario\bin\Debug\net6.0\Salario.pdb
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.dll
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\ref\Salario.dll
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.pdb
+C:\CSharp\TesteGFT\Salario\obj\Debug\net6.0\Salario.genruntimeconfig.cache
