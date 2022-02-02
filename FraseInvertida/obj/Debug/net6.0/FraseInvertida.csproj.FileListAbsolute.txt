@@ -1,0 +1,15 @@
+C:\CSharp\TesteGFT\FraseInvertida\bin\Debug\net6.0\FraseInvertida.exe
+C:\CSharp\TesteGFT\FraseInvertida\bin\Debug\net6.0\FraseInvertida.deps.json
+C:\CSharp\TesteGFT\FraseInvertida\bin\Debug\net6.0\FraseInvertida.runtimeconfig.json
+C:\CSharp\TesteGFT\FraseInvertida\bin\Debug\net6.0\FraseInvertida.dll
+C:\CSharp\TesteGFT\FraseInvertida\bin\Debug\net6.0\ref\FraseInvertida.dll
+C:\CSharp\TesteGFT\FraseInvertida\bin\Debug\net6.0\FraseInvertida.pdb
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.csproj.AssemblyReference.cache
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.AssemblyInfoInputs.cache
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.AssemblyInfo.cs
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.csproj.CoreCompileInputs.cache
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.dll
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\ref\FraseInvertida.dll
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.pdb
+C:\CSharp\TesteGFT\FraseInvertida\obj\Debug\net6.0\FraseInvertida.genruntimeconfig.cache
